@@ -19,19 +19,17 @@ This repository provides an automated setup for managing and maintaining a Linux
 - **IaC**: Terraform
 - **Automation**: Bash Scripts, Cron Jobs, Python
 - **Security**: fail2ban
-- **Monitoring & Management**: Python (server management, app monitoring, log analysis)
 
-## 🛠️ Technologies Used
+  ## 🛠️ Technologies Used
 
 | Technology        | Purpose                               |
 |-------------------|---------------------------------------|
-| **PostgreSQL**    | Database for e-commerce data         |
+| **PostgreSQL**    | Database for library data            |
 | **Docker**        | Containerization                     |
 | **Terraform**     | Infrastructure provisioning          |
 | **Bash Scripts**  | Automation of routine tasks          |
 | **Ubuntu Linux**  | Server                               |
 | **Security**      | fail2ban                             |
-| **Python**        | Server management and monitoring     |
 
 ---
 
@@ -182,4 +180,4 @@ Access logs for debugging:
 
 For any questions or issues, feel free to reach out at `rt07mahifan@gmail.com`.
 
-```
+---
