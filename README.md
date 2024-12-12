@@ -19,6 +19,19 @@ This repository provides an automated setup for managing and maintaining a Linux
 - **Automation**: Bash Scripts, Cron Jobs
 - **Security**: fail2ban
 
+  ## 🛠️ Technologies Used
+
+| Technology        | Purpose                               |
+|-------------------|---------------------------------------|
+| **PostgreSQL**    | Database for library data            |
+| **Docker**        | Containerization                     |
+| **Terraform**     | Infrastructure provisioning          |
+| **Bash Scripts**  | Automation of routine tasks          |
+| **Ubuntu Linux**  | Server                               |
+| **Security**      | fail2ban                             |
+
+---
+
 ## Prerequisites
 - Install [Docker](https://www.docker.com/)
 - Install [Terraform](https://www.terraform.io/)
